@@ -1,13 +1,13 @@
 # Self Study:Github usage.
 
 ##  Table of Contents
-- [Create-GIT-repo-locally](#Create-GIT-repo-locally)
-- [Create-github-repositories-online](#Create-github-repositories-online)
-- [Navigate-Repository](#Navigate-Repository)
-- [Work-On-Local-Repository](#Work-On-Local-Repository)
-- [Sync-With-GitHub](#Sync-with-GitHub)
-- [Work-With-Existing-GitHub-Repository](#Work-With-Existing-GitHub-Repository)
-- [Push-Local-Repository-to-GitHub-Repository](#Push-Local-Repository-to-GitHub-Repository)
+- [Create GIT Repository Locally](#Create-GIT-repo-locally)
+- [Create Github Repositories Online](#Create-github-repositories-online)
+- [Navigate Repository](#Navigate-Repository)
+- [Work On Local Repository](#Work-On-Local-Repository)
+- [Sync With GitHub](#Sync-with-GitHub)
+- [Work With Existing GitHub Repository](#Work-With-Existing-GitHub-Repository)
+- [Push Local Repository To GitHub Repository](#Push-Local-Repository-to-GitHub-Repository)
 - [Contact](#Contact)
 
 
