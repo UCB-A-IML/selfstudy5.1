@@ -71,7 +71,3 @@ example
 
 ## Contact
 - Rana Obulam: obulam@gmail.com
-## Test
-```
--test
-```
