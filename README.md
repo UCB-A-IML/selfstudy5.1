@@ -1,7 +1,7 @@
 # Self Study:Github usage.
 
 ##  Table of Contents
-- [Create GIT repo locally](#Create GIT repo locally)
+[Create GIT repo locally](#Create GIT repo locally)
 - [Create `github` repositories online] (#Create `github` repositories online)
 - [Navigate into the directory](#Navigate into the directory)
 - [Work on the files local repository](#Work on the files local repository)
