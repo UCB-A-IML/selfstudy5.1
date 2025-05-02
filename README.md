@@ -32,7 +32,19 @@
 ```
 ## Work on the files local repository
 ```
-example
+  ~cd ~/aiml/
+  ~which python
+  ~vi hellow.py
+  ~cat hellow.py
+    #!/opt/anaconda3/bin/python
+    print("hellow World")
+  python hellow.py
+   hellow World
+ ~git add hellow.py
+ ~git commit -m "add file" hellow.py
+  [master (root-commit) dc13499] add file
+   1 file changed, 2 insertions(+)
+   create mode 100644 hellow.py
 ```
 ## Work-With-Existing-GitHub-Repository
 ```
