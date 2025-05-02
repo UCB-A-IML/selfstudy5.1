@@ -1,24 +1,15 @@
 # Self Study:Github usage.
 
 ##  Table of Contents
+- [Create Github Repositories Online](#Create-github-repositories-online)
 - [Create GIT Repository Locally](#Create-GIT-repo-locally)
 - [Work On Local Repository](#Work-On-Local-Repository)
 - [Work With Existing GitHub Repository](#Work-With-Existing-GitHub-Repository)
 - [Navigate Repository](#Navigate-Repository)
 - [Push Local Repository To GitHub Repository](#Push-Local-Repository-to-GitHub-Repository)
-- [Create Github Repositories Online](#Create-github-repositories-online)
 - [Sync With GitHub](#Sync-with-GitHub)
 - [Contact](#Contact)
 
-
-## Create GIT Repo Locally
-- Create GIT repo locally
-```
-  - ~ % mkdir aiml
-  - ~ % cd aiml
-  - ~ % git init
-  - Initialized empty Git repository in ~/aiml/.git/
-```
 ## Create `github` repositories online
 ```
 - crate new organization UCB-A-IML
@@ -26,9 +17,13 @@
 -    add new public repository selfstudy5.1 under the newly created org UCB-A-IML
 -     https://github.com/UCB-A-IML/selfstudy5.1
 ```
-## Navigate into the directory on local repository
+## Create GIT Repo Locally
+- Create GIT repo locally
 ```
-- Navigate into the directory on local repository
+  - ~ % mkdir aiml
+  - ~ % cd aiml
+  - ~ % git init
+  - Initialized empty Git repository in ~/aiml/.git/
 ```
 ## Work on the files local repository
 ```
@@ -48,13 +43,32 @@
 ```
 ## Work-With-Existing-GitHub-Repository
 ```
-example
+go to https://github.com/UCB-A-IML/selfstudy5.1
+click on  "add file"
+File name "helloworkd.py
+add code
+commit
 ```
+## Navigate into the directory on local repository
+```
+~cd ~/aiml/
+~ls
+hellow.py
+~pwd
+~/aiml
+~
+```
+
 ## Push The Local Repository toGitHub Repository
 
 ```
 example
 ```
+## Sync With GitHub
+```
+example
+```
+
 ## Contact
 - Rana Obulam: obulam@gmail.com
 ## Test
