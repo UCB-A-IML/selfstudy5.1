@@ -1,20 +1,44 @@
-Self study.
+# Self Study:Github usage.
 
+##  Table of Contents
+- [Create GIT repo locally](#Create GIT repo locally)
+- [Create `github` repositories online] (#Create `github` repositories online)
+- [Navigate into the directory](#Navigate into the directory)
+- [Work on the files local repository](#Work on the files local repository)
+- [Sync with GitHub](#Sync with GitHub)
+- [Work With Existing GitHub Repository](#Work With Existing GitHub Repository)
+- [Push The Local Repository toGitHub Repository](#Push The Local Repository toGitHub Repository)
+- [Contact](#Contact)
 
-- Navigate files and directories using your terminal
-- Create, alter, and delete files using your terminal
-- Create `.git` repositories locally in your terminal
-
-- Create GIT repo locally
-   ~ % mkdir aiml
-   ~ % cd aiml
-  ~ % git init
-  Initialized empty Git repository in ~/aiml/.git/
-
-- Create `github` repositories online
-  
-    create github organization at https://github.com/UCB-A-IML
-   created pyblic repo selfstudy5.1 at https://github.com/UCB-A-IML/selfstudy5.1
-
-- Connect local `.git` repositories to `github` 
-- Use the **add, commit, push** commands to update work in remote repository
+## Create GIT repo locally
+```
+  - ~ % mkdir aiml
+  - ~ % cd aiml
+  - ~ % git init
+  - Initialized empty Git repository in ~/aiml/.git/
+```
+## Create `github` repositories online
+```
+- crate new organization UCB-A-IML
+-    https://github.com/UCB-A-IML
+-    add new public repository selfstudy5.1 under the newly created org UCB-A-IML
+-     https://github.com/UCB-A-IML/selfstudy5.1
+```
+## Navigate into the directory on local repository
+```
+- Navigate into the directory on local repository
+```
+## Work on the files local repository
+```
+example
+```
+## Work With Existing GitHub Repository
+```
+example
+```
+## Push The Local Repository toGitHub Repository
+```
+example
+```
+## Contact
+- Rana Obulam: obulam@gmail.com
