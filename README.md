@@ -1,16 +1,18 @@
 # Self Study:Github usage.
 
 ##  Table of Contents
-[Create GIT repo locally](#Create GIT repo locally)
-- [Create `github` repositories online] (#Create `github` repositories online)
-- [Navigate into the directory](#Navigate into the directory)
-- [Work on the files local repository](#Work on the files local repository)
-- [Sync with GitHub](#Sync with GitHub)
-- [Work With Existing GitHub Repository](#Work With Existing GitHub Repository)
-- [Push The Local Repository toGitHub Repository](#Push The Local Repository toGitHub Repository)
+- [Create-GIT-repo-locally](#Create-GIT-repo-locally)
+- [Create-github-repositories-online](#Create-github-repositories-online)
+- [Navigate-Repository](#Navigate-Repository)
+- [Work-On-Local-Repository](#Work-On-Local-Repository)
+- [Sync-With-GitHub](#Sync-with-GitHub)
+- [Work-With-Existing-GitHub-Repository](#Work-With-Existing-GitHub-Repository)
+- [Push-Local-Repository-to-GitHub-Repository](#Push-Local-Repository-to-GitHub-Repository)
 - [Contact](#Contact)
 
-## Create GIT repo locally
+
+## Create_GIT_repo_locally
+- Create GIT repo locally
 ```
   - ~ % mkdir aiml
   - ~ % cd aiml
@@ -32,13 +34,18 @@
 ```
 example
 ```
-## Work With Existing GitHub Repository
+## Work-With-Existing-GitHub-Repository
 ```
 example
 ```
 ## Push The Local Repository toGitHub Repository
+
 ```
 example
 ```
 ## Contact
 - Rana Obulam: obulam@gmail.com
+## Test
+```
+-test
+```
