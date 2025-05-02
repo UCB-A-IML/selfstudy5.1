@@ -12,6 +12,7 @@ Self study.
   Initialized empty Git repository in ~/aiml/.git/
 
 - Create `github` repositories online
+  
     create github organization at https://github.com/UCB-A-IML
    created pyblic repo selfstudy5.1 at https://github.com/UCB-A-IML/selfstudy5.1
 
