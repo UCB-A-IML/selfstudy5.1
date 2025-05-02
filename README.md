@@ -2,16 +2,16 @@
 
 ##  Table of Contents
 - [Create GIT Repository Locally](#Create-GIT-repo-locally)
-- [Create Github Repositories Online](#Create-github-repositories-online)
-- [Navigate Repository](#Navigate-Repository)
 - [Work On Local Repository](#Work-On-Local-Repository)
-- [Sync With GitHub](#Sync-with-GitHub)
 - [Work With Existing GitHub Repository](#Work-With-Existing-GitHub-Repository)
+- [Navigate Repository](#Navigate-Repository)
 - [Push Local Repository To GitHub Repository](#Push-Local-Repository-to-GitHub-Repository)
+- [Create Github Repositories Online](#Create-github-repositories-online)
+- [Sync With GitHub](#Sync-with-GitHub)
 - [Contact](#Contact)
 
 
-## Create_GIT_repo_locally
+## Create GIT Repo Locally
 - Create GIT repo locally
 ```
   - ~ % mkdir aiml
